@@ -1,4 +1,5 @@
-Submitted 7 December 2020 for Introduction to Programming 
+Submitted 7 December 2020 for Introduction to Programming
+Project guidelines below
 ***
 <h2>Project</h2>
 <br>
